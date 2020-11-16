@@ -1,16 +1,22 @@
-### Hi there 👋
+### $ whoami
 
-<!--
-**pedromoraisf/pedromoraisf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since I was younger I was always curious to the point of wanting to understand how MMORPG games were created, arousing my interest in following in the footsteps of where I am today.
 
-Here are some ideas to get you started:
+Enthusiast of the best and newest web & mobile development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on Vue.js, SSR Techniques (Nuxt.js), GraphQL, Node.js, Typescript, SQL+, NoSQL+, Docker 🐳 ...
+
+Also course Software Engineering in the instant.
+
+I am currently as a full stack developer at Thoth Tecnologia, in Brazil.
+
+🛠 What I'm Working on
+- Full stacks of an app
+- Cloud infrastructures
+- Quite real time with socket.io
+
+📫 How to reach me:
+
+[💬 Linkedin](https://www.linkedin.com/in/pedromoraisf)
+
+[📧 Email](mailto:pedro.morais1997@gmail.com)
