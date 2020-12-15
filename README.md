@@ -17,6 +17,8 @@ I am currently as a full stack developer at Thoth Tecnologia, in Brazil.
 
 📫 How to reach me:
 
+[🧠 Medium](https://pedromoraisf.medium.com/)
+
 [💬 Linkedin](https://www.linkedin.com/in/pedromoraisf)
 
 [📧 Email](mailto:pedro.morais1997@gmail.com)
