@@ -1,4 +1,6 @@
-### $ whoami
+### $ ~/
+### $ ~/
+### $ ~/ _
 
 Since I was younger I was always curious to the point of wanting to understand how MMORPG games were created, arousing my interest in following in the footsteps of where I am today.
 
