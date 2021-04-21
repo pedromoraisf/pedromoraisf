@@ -2,25 +2,12 @@
 ### $ ~/
 ### $ ~/ _
 
-Since I was younger I was always curious to the point of wanting to understand how MMORPG games were created, arousing my interest in following in the footsteps of where I am today.
-
-Enthusiast of the best and newest web & mobile development technologies.
-
-Currently focused on Vue.js, SSR Techniques (Nuxt.js), GraphQL, Node.js, Typescript, SQL+, NoSQL+, Docker 🐳 ...
-
-Also course Software Engineering in the instant.
-
-I am currently as a full stack developer at Thoth Tecnologia, in Brazil.
-
-🛠 What I'm Working on
-- Full stacks of an app
-- Cloud infrastructures
-- Quite real time with socket.io
+Hello my Name Is Pedro.
+I am a software engineer and currently, after hours I am focused on a project to write publications on Software Engineering and Architecture for Vue.js 💚 - mainly for the Brazilian public 🇧🇷. 
+Follow my publications through the 🧠 [Medium](https://pedromoraisf.medium.com).
 
 📫 How to reach me:
 
-[🧠 Medium](https://pedromoraisf.medium.com/)
-
-[💬 Linkedin](https://www.linkedin.com/in/pedromoraisf)
+[👨🏽‍💻 Linkedin](https://www.linkedin.com/in/pedromoraisf)
 
 [📧 Email](mailto:pedro.morais1997@gmail.com)
