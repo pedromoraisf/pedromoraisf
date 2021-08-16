@@ -3,7 +3,7 @@
 
 Hello my Name Is Pedro.
 
-I am a software engineer and currently, after hours I am focused on a project to write publications on Software Engineering and Architecture for Vue.js 💚 - mainly for the Brazilian public 🇧🇷. 
+I am a software engineer and currently, after hours I am focused on a project to write publications on Architecture and Software Engineering - mainly for the Brazilian public 🇧🇷. 
 
 Follow my publications through the 🧠 [Medium](https://pedromoraisf.medium.com).
 
