@@ -3,7 +3,7 @@
 
 Hey, I'm Pedro.
 
-I am a software engineer and currently, after hours I am focused on a project to write publications on Architecture and Software Engineering - mainly for the Brazilian public 🇧🇷. 
+I'm a software engineer and currently, after work, I'm focused on a project to write publications on Software Architecture and Engineering - mainly for the Brazilian audience 🇧🇷. 
 
 Follow my publications through the 🧠 [Medium](https://pedromoraisf.medium.com).
 
