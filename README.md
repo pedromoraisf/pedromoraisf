@@ -1,7 +1,7 @@
 ### $ ~/
 ### $ ~/ _
 
-Hello my Name Is Pedro.
+Hey, I'm Pedro.
 
 I am a software engineer and currently, after hours I am focused on a project to write publications on Architecture and Software Engineering - mainly for the Brazilian public 🇧🇷. 
 
