@@ -1,7 +1,4 @@
-### $ ~/
-### $ ~/ _
-
-Hey, I'm Pedro.
+### Hi there 👋
 
 I'm a software engineer and currently, after work, I'm focused on a project to write publications on Software Architecture and Engineering - mainly for the Brazilian audience 🇧🇷. 
 
